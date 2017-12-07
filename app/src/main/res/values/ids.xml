@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- -->
+    <!-- Loop activity ids: -->
+    <item name="loop_textview" type="id">loop txt id</item>
+
+
+    <!-- Login Activity Ids: -->
+    <item name="user_email_edit_text" type="id" >user email edit text id</item>
+    <item name="user_password_edit_text" type="id" >password edit text id</item>
+    <item name="save_data_checkbox" type="id">checkbox id</item>
+    <item name="sendButton" type="id">sendButton  id</item>
+
+</resources>
