@@ -4,17 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context="c4q.nyc.ap.LoopActivity">
+    tools:context="c4q.nyc.ap.ListActivity">
 
-    <TextView
-        android:id="@id/loop_textview"
+    <android.support.v7.app.AlertController.RecycleListView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingTop="300dp"
-        android:text="Hello World!"
-        android:textSize="20sp"
-        android:gravity="center"
-        />
+        android:layout_height="wrap_content">
 
+    </android.support.v7.app.AlertController.RecycleListView>
 </LinearLayout>
